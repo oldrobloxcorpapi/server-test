@@ -50,3 +50,11 @@ for supervanish there are two ways
 that's the vanishing coammnds more info.
 <br>
 also read contact.md
+
+## CONTACT US
+<br>
+contact us at jberr14@lewiscass.net
+<br>
+or at jamesberr16@gmail.com
+<br>
+these email's do not have our real names
