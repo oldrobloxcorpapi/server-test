@@ -37,6 +37,7 @@ install plugins for eaglercraft or the plugin mangers like bukkit, spoigot, and 
 this was a forked project transformed by oldroblox with more plugins
 <br>
 and a new things like vanish the commands only for the player
+
 ## commands
 <br>
 for vanish /vanish
@@ -53,8 +54,10 @@ also read contact.md
 
 ## CONTACT US
 <br>
-contact us at jberr14@lewiscass.net
+contact us at 'jberr14@lewiscass.net'
+<br>
 <br>
 or at jamesberr16@gmail.com
+<br>
 <br>
 these email's do not have our real names
